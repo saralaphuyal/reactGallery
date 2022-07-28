@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/saralaphuyal.github.io/reactGallery/static/css/main.f5d296fe.css",
+    "main.js": "/saralaphuyal.github.io/reactGallery/static/js/main.4eea05d3.js",
+    "index.html": "/saralaphuyal.github.io/reactGallery/index.html",
+    "main.f5d296fe.css.map": "/saralaphuyal.github.io/reactGallery/static/css/main.f5d296fe.css.map",
+    "main.4eea05d3.js.map": "/saralaphuyal.github.io/reactGallery/static/js/main.4eea05d3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5d296fe.css",
+    "static/js/main.4eea05d3.js"
+  ]
+}
